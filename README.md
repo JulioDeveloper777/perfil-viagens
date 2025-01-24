@@ -8,7 +8,7 @@ Uma simples página para compartilhar suas experiências de viagem.
 ## Instalação
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seunome/perfil-viagens.git
+git clone https://github.com/JulioDeveloper777/perfil-viagens.git
 ```
 
 2. Instale as dependências:
