@@ -14,7 +14,7 @@ export const PhotoItem = ({ photo, onClick, priority = false }: PropsImage) => {
       className="cursor-pointer hover:opacity-50 aspect-square relative overflow-hidden"
     >
       <Image
-        src={`/${photo.url}`}
+        src={`${photo.url}`}
         alt=""
         fill
         sizes="(max-width: 768px) 50vw, 25vw"
