@@ -1,6 +1,8 @@
 # Perfil de Viagens 🌎
 Uma simples página para compartilhar suas experiências de viagem.
 
+![image](https://github.com/user-attachments/assets/cc981dfa-fdb5-4930-866b-7f4fc9a957de)
+
 ## Tecnologias Utilizadas
 - Next.js
 - Tailwind CSS
